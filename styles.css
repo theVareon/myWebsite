@@ -1,0 +1,22 @@
+body {
+    background-size: 100%;
+    background-image: url(mt.jpg);
+    color: black;
+}
+
+footer {
+    color: white;
+}
+
+.board {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.accounts {
+    text-align: center;
+    margin-top: 27%;
+}
